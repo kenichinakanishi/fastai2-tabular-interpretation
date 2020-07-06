@@ -2,7 +2,7 @@
 
 
 
-This is (extended) fastai2-version of my [previous work](https://github.com/Pak911/fastai-shared-notebooks)
+This is the fastai2-version work of by Pak911, building on their [previous work](https://github.com/Pak911/fastai-shared-notebooks)
 This project helps you to interpret tabular models, made with [fastai2](https://github.com/fastai/fastai2)
 
 Some examples of using these methods are made for 2 datasets: well known [Bulldozers dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/data) and transfermarkt's [football players transfer statistics](https://www.kaggle.com/giovannibeli/european-football-transfers-database)
